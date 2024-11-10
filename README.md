@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/rlaalsrl1228/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrl1228)](https://solved.ac/rlaalsrl1228/)
