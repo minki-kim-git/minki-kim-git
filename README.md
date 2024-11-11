@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Kim Minki
 <!--
 **minki-kim-git/minki-kim-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minki-kim-git&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrl1228)](https://solved.ac/rlaalsrl1228/)
 
 # 💪Skills
 ### Platforms & Languages
@@ -32,3 +29,8 @@ Here are some ideas to get you started:
 # Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaalsrl1227@gmail.com)](mailto:rlaalsrl1227@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaalsrl1239@naver.com)](mailto:rlaalsrl1239@naver.com)
+
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minki-kim-git&show_icons=true&theme=radical)
+###
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrl1228)](https://solved.ac/rlaalsrl1228/)
