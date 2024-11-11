@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minki's%20GITHUB&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F73C&background=9CFFED00&width=435&lines=Hi+there)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minki's%20GITHUB&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57F73C&background=9CFFED00&width=435&lines=Hi+there+👋)](https://git.io/typing-svg)
 <!--
 **minki-kim-git/minki-kim-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
