@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaalsrl1239@naver.com)](mailto:rlaalsrl1239@naver.com)
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minki-kim-git&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minki-kim-git&show_icons=true&theme=dracula)
 ###
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrl1228)](https://solved.ac/rlaalsrl1228/)
